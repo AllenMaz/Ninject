@@ -1,0 +1,8 @@
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\bin\Debug\Padmate.Allen.NinjectTest.exe.config
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\bin\Debug\Padmate.Allen.NinjectTest.exe
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\bin\Debug\Padmate.Allen.NinjectTest.pdb
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\bin\Debug\Ninject.dll
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\bin\Debug\Ninject.xml
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\obj\Debug\Padmate.Allen.NinjectTest.csprojResolveAssemblyReference.cache
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\obj\Debug\Padmate.Allen.NinjectTest.exe
+D:\VSWorkSpace\Padmate.Allen.Ninject\Padmate.Allen.Ninject\obj\Debug\Padmate.Allen.NinjectTest.pdb
